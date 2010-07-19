@@ -1,0 +1,7 @@
+Description:
+    Simple project for c++ testing, using github.
+
+Access:
+    ssh://git@github.com:chwentong/simple.git
+    https://chwentong@github.com/chwentong/simple.git
+    git://github.com/chwentong/simple.git
